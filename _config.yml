@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'apostilb'
+tagline:          'marginal illuminations on science'
+description:      'An exercise in communicating science results, by <a href="https://twitter.com/neuroamanda">@neuroamanda</a> and <a href="https://twitter.com/RaoOfPhysics">@RaoOfPhysics</a>'
+url:              https://apostilb.github.io
+
+author:
+  name:           'Amanda Alvarez and Achintya Rao'
+  url:            https://github.com/apostilb
+
+paginate:         5
+
+github:
+  repo:           https://github.com/apostilb/apostilb.github.io
