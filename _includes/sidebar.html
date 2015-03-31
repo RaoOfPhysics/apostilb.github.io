@@ -25,12 +25,15 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}atom.xml">Feed</a>
   </nav>
 
   <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }} &mdash; {{ site.author.name }}. <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC-BY-NC-ND 4.0</a>.
+      &copy; {{ site.time | date: '%Y' }} &mdash; {{ site.author.name }}. <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>
+    </p>
+    <p>
+      Jekyll theme: <a href="http://lanyon.getpoole.com">Lanyon</a>
     </p>
   </div>
 </div>
