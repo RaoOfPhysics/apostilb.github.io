@@ -1,21 +1,25 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:               redcarpet
+highlighter:            pygments
 
 # Permalinks
-permalink:        pretty
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:              pretty
+relative_permalinks:    true
 
 # Setup
-title:            'apostilb'
-tagline:          'marginal illuminations on science'
-description:      'An exercise in communicating science results, by <a href="https://twitter.com/neuroamanda">@neuroamanda</a> and <a href="https://twitter.com/RaoOfPhysics">@RaoOfPhysics</a>'
-url:              https://apostilb.github.io
+title:                  'apostilb'
+tagline:                'marginal illuminations on science'
+description:            'An exercise in communicating science results, by <a href="https://twitter.com/neuroamanda">@neuroamanda</a> and <a href="https://twitter.com/RaoOfPhysics">@RaoOfPhysics</a>'
+url:                    https://apostilb.github.io
+baseurl:                /
+paginate:               5
 
+# About/contact
 author:
-  name:           'Amanda Alvarez and Achintya Rao'
-  url:            https://github.com/apostilb
-
-paginate:         5
+  name:                 'Amanda Alvarez and Achintya Rao'
+  url:                  https://github.com/apostilb
 
 github:
-  repo:           https://github.com/apostilb/apostilb.github.io
+  repo:                 https://github.com/apostilb/apostilb.github.io
