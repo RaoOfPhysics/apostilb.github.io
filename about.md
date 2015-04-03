@@ -21,4 +21,4 @@ Lay science summaries have become topical in the scicomm community. Science enth
 
 2. `apostilb`: a unit of luminance
 
-    With our *marginalia* we are trying to shine a light on the original scientific content, seeing it in a new and hopefully universally intelligible light.
+    With our *apostils* we are trying to shine a light on the original scientific content, seeing it in a new and hopefully universally intelligible light.
