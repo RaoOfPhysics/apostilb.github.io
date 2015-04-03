@@ -17,8 +17,8 @@ Lay science summaries have become topical in the scicomm community. Science enth
 
 1. `apostil`: a marginal note; a gloss
 
-  Annotating scholarly works has a long history. This kind of marginalia,  an old form of commentary or peer review, has emerged again with scholary communication sites like [PubPeer](https://pubpeer.com/) and [PubMed Commons](http://www.ncbi.nlm.nih.gov/pubmedcommons/). We have also integrated the annotation service [hypothes.is](http://hypothes.is) here as a discussion platform.
+> Annotating scholarly works has a long history. This kind of marginalia, an old form of commentary or peer review, has emerged again with scholarly communication sites like [PubPeer](https://pubpeer.com/) and [PubMed Commons](http://www.ncbi.nlm.nih.gov/pubmedcommons/). We have also integrated the annotation service [hypothes.is](http://hypothes.is) here as a discussion platform.
 
-- `apostilb`: a unit of luminance
+2. `apostilb`: a unit of luminance
 
-  With our *marginalia* we are trying to shine a light on the original scientific content, seeing it in a new and hopefully universally intelligible light.
+> With our *marginalia* we are trying to shine a light on the original scientific content, seeing it in a new and hopefully universally intelligible light.
