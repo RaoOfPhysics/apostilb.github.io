@@ -23,3 +23,9 @@ author:
 
 github:
   repo:                 https://github.com/apostilb/apostilb.github.io
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE.md
+    - README.md
