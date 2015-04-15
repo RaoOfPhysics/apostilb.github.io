@@ -22,3 +22,7 @@ Lay science summaries have become topical in the scicomm community. Science enth
 2. `apostilb`: a unit of luminance
 
     With our *apostils* we are trying to shine a light on the original scientific content, seeing it in a new and hopefully universally intelligible light.
+
+### About the logo
+
+The designer of the apostilb logo [describes its design and significance](/about-logo).
