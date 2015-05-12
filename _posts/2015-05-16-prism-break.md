@@ -1,4 +1,7 @@
-#Prism break, cuttlefish style
+---
+layout: post
+title: Prism break, cuttlefish style
+---
 
 _A suggested new biological color vision mechanism exploits optics_
 
@@ -6,7 +9,7 @@ From humans to mantis shrimp, the key to seeing in color is to compare. With at 
 
 Alas, the cuttlefish has but one type of photoreceptor. The instantaneous color and texture changes exhibited by this mollusk allow it to blend in seamlessly with any background it encounters, but it is effectively color blind, at least if color vision depends on comparison between cell types. [Some new research](http://dx.doi.org/10.1101/017756) suggests that "color blind" cephalopods like the cuttlefish _can_ sense chromatic information using an optical trick.
 
-![Eye of Australian giant cuttlefish (Sepia apama)](../images/2015-05-16-prism-break.jpg)
+![Eye of Australian giant cuttlefish (Sepia apama)]({{ site.url }}/images/2015-05-16-prism-break.jpg)
 
 > _Eye of Australian giant cuttlefish (Sepia apama). [Photo](https://www.flickr.com/photos/rling/5101121081/in/photostream/) by Richard Ling / [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)_
 
