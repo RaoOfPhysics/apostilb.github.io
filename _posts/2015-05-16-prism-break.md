@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Prism break, cuttlefish style
+author: neuroamanda
 ---
 
 _A suggested biological color vision mechanism exploits optics_
