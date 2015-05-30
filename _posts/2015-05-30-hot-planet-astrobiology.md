@@ -6,45 +6,45 @@ author: neuroamanda
 
 _Exoplanets that are too hot may be a sign of alien life_
 
-A new research paper suggests that scanning for waste heat radiating off of Earth-like planets may be important in the search for extraterrestrial intelligent life.
+A new research paper suggests that scanning for waste heat radiating off of Earth-like planets may be important in the search for extraterrestrial intelligence.
 Like the radio signals emitted by Earth, heat may serve as an interstellar smoke signal indicating energy production and consumption.
 While this is not a new idea, it may be a consideration for how we build future telescopes.
 
-With nearly 2000 exoplanets discovered [so far](http://planetquest.jpl.nasa.gov/newworldsatlas) &mdash; of which 40-odd are [potentially habitable](https://en.wikipedia.org/wiki/List_of_potentially_habitable_exoplanets) &mdash; Earth may soon no longer be unique in its ability to harbor life.
-One signal that we have been listening for in the search for extraterrestrial intelligence is radio waves, which our rapidly industrialized Earth civilization has also been beaming into the ether for the past 100 years or so.
+With nearly 2000 exoplanets discovered [so far](http://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=planets) &mdash; of which 40-odd are [potentially habitable](https://en.wikipedia.org/wiki/List_of_potentially_habitable_exoplanets) &mdash; Earth may soon no longer be the only planet we know of with the potential to harbor life.
+One signal that we have been listening for in the search for extraterrestrial intelligence is radio waves, which our rapidly industrialized Earth civilization has also been beaming into outer space for the past 100 years or so.
 These artificial signals traveling at the speed of light were humanity's first "hello" to the universe.
 But even these signals are becoming silenced with the end of terrestrial broadcasting; if the same thing happened to E.T., what are some other large-scale signs that could indicate the presence of intelligent life?
 
 The thermal radiation of a planet may be an unintentional calling card, a biomarker of extraterrestrial life.
 In particular, the way heat is distributed as islands in space and time on a planet's surface &mdash; think of the bright spots of illuminated cities on Earth at night &mdash; may be a signature of Earth-like civilizations.
-Because the trend on this planet is towards ever greater energy consumption, civilizations as or more advanced than Earth's may also recognized by the heat (that is, infrared light as seen by our telescopes) that accompanies energy production.
+Because the trend on this planet is towards ever greater energy consumption, civilizations as or more advanced than Earth's may also recognized by the heat (detected as infrared light) that accompanies energy production.
 
 ![Kepler-16b, an exoplanet orbiting a pair of stars]({{ site.url }}/images/2015-05-30-Kepler_16b.jpg)
 
 > _Kepler-16b, an exoplanet orbiting a pair of stars. Modified from original [image](http://planetquest.jpl.nasa.gov/system/secondary_files/binaries/988/original/Kepler_16b_39x27.jpg) / Courtesy NASA/JPL-Caltech / Public Domain_
 
 The researchers modeled what heat signals might come off an exoplanet, using Earth as a basis.
-Weighing the energy inputs (solar and planetary heat sources) and outputs (photosynthesis and other biological activity as well as technology) for their model planet, they reached the conclusion that as you produce more energy that is returned to the planet as heat, the model planet starts to warm up.
-As the authors put it, "a civilization with growing power needs will eventually reach a point where they become uncomfortably warm."
+They gave the model planet certain energy inputs (solar and planetary heat sources) and outputs (from photosynthesis and other biological activity as well as technology) and found that, over time, the planet began to warm up. This was expected because part of any energy produced is returned to the planet as heat. As the authors put it, "a civilization with growing power needs will eventually reach a point where they become uncomfortably warm".
 
 Even if the alien civilizations found a way to engineer their planet to reflect heat out of the atmosphere, this would still leave a detectable heat signature.
 The more advanced a civilization is, the argument goes, the more energy it needs, and the more it will move towards harnessing all the available energy in its solar system, perhaps culminating in a [Dyson sphere](http://en.wikipedia.org/wiki/Dyson_sphere).
-We can compare energy consumption with the theoretical maximum available (i.e. the flux of the host star) to get a measure of how advanced (in terms of energy consumption and thus heat output) a civilization is.
+We can compare energy consumption with the theoretical maximum available (i.e. the amount of energy incident from the host star) to get a measure of how advanced (in terms of energy consumption and thus heat output) a civilization is.
 For Earth, the researchers estimate we are now consuming 0.04% of the flux of the Sun; more advanced civilizations will tend towards 100% (the Dyson sphere scenario).
 
-For their computer model, the researchers gave their simulated exoplanet Earth-like properties of reflectance, scattering, and geography.
+For their computer model, the researchers gave their simulated exoplanet Earth-like properties of reflectance, scattering, and geography, but a heat profile 50 times larger than Earth's.
 The brightness of the planet changed predictably with its programmed rotation and planetary orbit period.
-By subtracting out short-wavelength light, which is the most sensitive marker of the planet's albedo or percentage of reflected radiation, they arrived at a measure of the planetary flux for a simulated civilization with a thermal heat signal 50 times larger than Earth's.
+To discount parts of the observed brightness that are due to reflected radiation (e.g. from cloud cover), they removed the short-wavelength light.
+They arrived at a measure of the planetary flux, demonstrating that this could be a feasible method for detecting extraterrestrial intelligence.
 
-Looking at the visible and infrared light coming off a planet, it is thus in principle possible to ascertain thermal signatures compatible with alien life.
+Looking at the visible and infrared light coming off a planet, it is thus in principle possible to ascertain thermal signatures compatible with alien civilization.
 This method could be enhanced by coupling it with existing tools like spectroscopy, which looks at the reflected spectrum of electromagnetic radiation to determine the chemical composition of exoplanets and stars.
 Still, the heat signature will be confounded by planets completely covered in clouds or water.
 
 In order to find these hot planets, really big telescopes are needed, the authors argue.
-The challenge is to achieve sufficient contrast sensitivity &mdash; being able to distinguish the planet's faint light from the brightness of the star it orbits &mdash; and for that you need telescopes with [large-diameter objectives](http://en.wikipedia.org/wiki/Objective_%28optics%29#Telescope), plus other technology to block light from other stars and focus the light you _do_ want to see.
+The challenge is to achieve sufficient contrast sensitivity &mdash; being able to distinguish the planet's faint thermal signatures from the heat generated by the star it orbits &mdash; and for that you need telescopes with [large-diameter objectives](http://en.wikipedia.org/wiki/Objective_%28optics%29#Telescope), plus other technology to block light from other stars and focus the light you _do_ want to see.
 A 70-meter telescope would be sufficient to study exoplanets in the habitable zones of stars in Earth's near-neighorhood, within 20 parsecs.
 The world's largest planned telescopes, however, are all under 40 meters.
-The authors therefore advocate for a 74-meter Colossus telescope that would have the contrast sensitivity required to detect the heat signatures of any advanced civilizations on near-Earth exoplanets.
+The authors therefore advocate for the 74-meter Colossus telescope that would have the contrast sensitivity required to detect the heat signatures of any advanced civilizations on near-Earth exoplanets.
 
 Finally, the authors suggest, we can learn something important about the survival probability of advanced civilizations (very low) if no alien heat signatures are found with a survey of the habitable planets in the near-Earth neighborhood.
 
