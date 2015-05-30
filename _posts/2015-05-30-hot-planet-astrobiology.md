@@ -25,14 +25,15 @@ Because the trend on this planet is towards ever greater energy consumption, civ
 
 The researchers modeled heat signals that might be emitted by an exoplanet with Earth-like properties of reflectance, scattering, and geography, but a heat profile 50 times larger than Earth's.
 An advancing civilization will likely be accompanied by a warming planet; as the authors put it, "a civilization with growing power needs will eventually reach a point where they become uncomfortably warm".
-
 Even if the alien civilizations found a way to engineer their planet to reflect heat out of the atmosphere, this would still leave a detectable heat signature.
+
 The more advanced a civilization is, the argument goes, the more energy it needs, and the more it will move towards harnessing all the available energy in its solar system, perhaps culminating in a [Dyson sphere](http://en.wikipedia.org/wiki/Dyson_sphere).
 We can compare energy consumption with the theoretical maximum available (i.e. the amount of energy incident from the host star) to get a measure of how advanced (in terms of energy consumption and thus heat output) a civilization is.
-For Earth, the researchers estimate we are now consuming 0.04% of the flux of the Sun; more advanced civilizations will tend towards 100% (the Dyson sphere scenario).
+For Earth, the researchers estimate we are now consuming 0.04% of the flux of the Sun; more advanced civilizations will tend towards 100%.
 
 They gave the model planet certain energy inputs (solar and planetary heat sources) and outputs (from photosynthesis and other biological activity as well as technology) and found that the brightness of the planet changed predictably with its programmed rotation and planetary orbit period.
-To discount parts of the observed brightness that are due to reflected radiation (e.g. from cloud cover), they removed the short-wavelength light, finally arriving at a measure of the planetary flux.
+To discount parts of the observed brightness that are due to reflected radiation (e.g. from cloud cover), they removed the short-wavelength light.
+In this way, they were able to show that the heat profile of a civilization is distinct from the heat profile attributable purely to planetary motion.
 
 Looking at the visible and infrared light coming off a planet, it is thus in principle possible to ascertain thermal signatures compatible with alien civilization.
 This method could be enhanced by coupling it with existing tools like spectroscopy, which looks at the reflected spectrum of electromagnetic radiation to determine the chemical composition of exoplanets and stars.
