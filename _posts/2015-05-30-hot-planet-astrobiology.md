@@ -8,28 +8,29 @@ _Exoplanets that are too hot may be a sign of alien life_
 
 A new research paper suggests that scanning for waste heat radiating off of Earth-like planets may be important in the search for extraterrestrial intelligent life.
 Like the radio signals emitted by Earth, heat may serve as an interstellar smoke signal indicating energy production and consumption.
-While this not a new idea, it may be a consideration for how we build future large telescopes.
+While this is not a new idea, it may be a consideration for how we build future telescopes.
 
-With nearly 2000 exoplanets discovered so far &mdash; of which 40-odd are potentially habitable &mdash; Earth may not be as special in its ability to harbor life as once thought.
-One signal that we have been listening for in the search for extraterrestrial intelligence is radio waves, the dominant output of our rapidly industrialized Earth civilization over the past 100 years or so.
-But even these signals are becoming silenced with the end of terrestrial broadcasting; if the same thing happened to ET, what are some other large-scale signs that could indicate the presence of intelligent life?
-The trend on this planet is towards ever greater energy consumption, especially as the economy increasingly depends on storing and manipulating information.
-The more advanced a civilization is, the argument goes, the more power it generates, and the more it will move towards harnessing the power of its solar system, perhaps culminating in a [Dyson sphere](http://en.wikipedia.org/wiki/Dyson_sphere).
-The thermal radiation of the planet may then be an unintentional calling card, a biomarker of extraterrestrial life.
+With nearly 2000 exoplanets discovered [so far](http://planetquest.jpl.nasa.gov/newworldsatlas) &mdash; of which 40-odd are [potentially habitable](https://en.wikipedia.org/wiki/List_of_potentially_habitable_exoplanets) &mdash; Earth may soon no longer be unique in its ability to harbor life.
+One signal that we have been listening for in the search for extraterrestrial intelligence is radio waves, which our rapidly industrialized Earth civilization has also been beaming into the ether for the past 100 years or so.
+These artificial signals traveling at the speed of light were humanity's first "hello" to the universe.
+But even these signals are becoming silenced with the end of terrestrial broadcasting; if the same thing happened to E.T., what are some other large-scale signs that could indicate the presence of intelligent life?
+
+The thermal radiation of a planet may be an unintentional calling card, a biomarker of extraterrestrial life.
 In particular, the way heat is distributed as islands in space and time on a planet's surface &mdash; think of the bright spots of illuminated cities on Earth at night &mdash; may be a signature of Earth-like civilizations.
+Because the trend on this planet is towards ever greater energy consumption, civilizations as or more advanced than Earth's may also recognized by the heat (that is, infrared light as seen by our telescopes) that accompanies energy production.
 
 ![Kepler-16b, an exoplanet orbiting a pair of stars]({{ site.url }}/images/2015-05-30-Kepler_16b.jpg)
 
 > _Kepler-16b, an exoplanet orbiting a pair of stars. Modified from original [image](http://planetquest.jpl.nasa.gov/system/secondary_files/binaries/988/original/Kepler_16b_39x27.jpg) / Courtesy NASA/JPL-Caltech / Public Domain_
 
 The researchers modeled what heat signals might come off an exoplanet, using Earth as a basis.
-Weighing the energy inputs (solar and planetary heat sources) and outputs (photosynthesis, biological activity, human/alien technology) for their model planet, they reached the conclusion that as you produce more energy that is returned to the planet as heat, the model planet starts to warm up.
+Weighing the energy inputs (solar and planetary heat sources) and outputs (photosynthesis and other biological activity as well as technology) for their model planet, they reached the conclusion that as you produce more energy that is returned to the planet as heat, the model planet starts to warm up.
 As the authors put it, "a civilization with growing power needs will eventually reach a point where they become uncomfortably warm."
 
 Even if the alien civilizations found a way to engineer their planet to reflect heat out of the atmosphere, this would still leave a detectable heat signature.
-If we imagine that the civilizations of Earth or Earth-like planets are moving towards harnessing all the energy available in their local star, then it is useful to compare the current power consumption with the theoretical maximum available (i.e. the flux of the host star).
-For Earth, the researchers estimate we are now consuming 0.04% of the flux of the Sun; more advanced civilizations will tend towards 100% (the Dyson Sphere scenario) until interstellar colonization becomes necessary.
-At that point, a sharp reduction in the planet's reflected radiation should be observable.
+The more advanced a civilization is, the argument goes, the more energy it needs, and the more it will move towards harnessing all the available energy in its solar system, perhaps culminating in a [Dyson sphere](http://en.wikipedia.org/wiki/Dyson_sphere).
+We can compare energy consumption with the theoretical maximum available (i.e. the flux of the host star) to get a measure of how advanced (in terms of energy consumption and thus heat output) a civilization is.
+For Earth, the researchers estimate we are now consuming 0.04% of the flux of the Sun; more advanced civilizations will tend towards 100% (the Dyson sphere scenario).
 
 For their computer model, the researchers gave their simulated exoplanet Earth-like properties of reflectance, scattering, and geography.
 The brightness of the planet changed predictably with its programmed rotation and planetary orbit period.
