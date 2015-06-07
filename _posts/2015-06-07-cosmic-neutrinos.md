@@ -10,15 +10,14 @@ We are all bathed in a constant stream of particles knows as cosmic rays[^1], wh
 These high-energy particles were initially suspected to have Earthly origins, but [Victor Hess demonstrated in 1912](http://timeline.web.cern.ch/events/victor-hess-discovers-cosmic-rays) that they arrive on our planet from non-terrestrial sources.
 For decades, the enigmatic nature of cosmic rays has captivated scientists, who have sought explanations for their origins and the energies they possess.
 
-In 1966, Kenneth Greisen as well as Georgiy Zatsepin and Vadim Kuzmin proposed that the energy of cosmic rays originating from very distant sources didn’t exceed a certain value.
+In 1966, Kenneth Greisen as well as Georgiy Zatsepin and Vadim Kuzmin proposed that the energy of cosmic rays originating from very distant sources wouldn’t exceed a certain value.
 The [Greisen–Zatsepin–Kuzmin (GZK) limit](https://en.wikipedia.org/wiki/Greisen%E2%80%93Zatsepin%E2%80%93Kuzmin_limit) comes from energy losses that ultrahigh-energy cosmic rays (UHECRs) experience when they interact with the photons from the cosmic microwave background radiation.
-Indeed the flux of UHECRs tails off at energies above the GZK limit.
-However, there may be alternative explanations as to why this is the case; these explanations can be tested by probing the composition, and therefore the sources, of the UHECRs.
+Indeed the flux of UHECRs tails off at energies above the GZK limit, as predicted.
+However, there may be alternative explanations as to why this is the case, which can be tested by probing the composition, and therefore the sources, of the UHECRs.
 
 One such probe involves searching for ultrahigh-energy cosmic neutrinos.
-Neutrinos are particles belonging to the same family as the electron but they interact with matter extremely weakly, meaning that they can pass through lightyears of lead without interacting in any way with the dense metal.
+Neutrinos are particles that interact with matter extremely weakly, meaning that they can pass through lightyears of lead without interacting in any way with the dense metal.
 Cosmic neutrinos can have two possible origins: they could be produced through the interactions of cosmic-ray particles such as protons with the cosmic microware background or they could be the result of the [decay](https://en.wikipedia.org/wiki/Particle_decay) of ephemeral particles produced at the cosmic-ray source.
-In the latter case, neutrinos may be the only cosmic-ray particles capable of travelling distances greater than around 100 megaparsecs or 360 million lightyears.
 Observing and studying ultrahigh-energy neutrinos could shed light on the nature of UHECR that originate in very distant cosmic-ray sources.
 It would also help validate or rule out theories that attempt to explain the UHECR energy spectrum.
 
