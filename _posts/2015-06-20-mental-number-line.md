@@ -7,13 +7,13 @@ author: neuroamanda
 _Judgment of number influenced by other magnitudes and senses_
 
 People appear to have an inherent bias when it comes to number.
-They tend to count from left to right and are quicker to react in psychological tests when smaller numbers are on the left and larger numbers are on the right; [chicks also display this same behavior](http://www.aaas.org/news/humans-chicks-count-left-right).
+They tend to count from left to right and are quicker to react in psychological tests when smaller numbers are on the left and larger numbers are on the right, at least in Western cultures; [chicks also display this same behavior](http://www.aaas.org/news/humans-chicks-count-left-right).
 Studies have found this mental number line to be pervasive across tasks where people judge size, duration or emotional expression (preferring frownies on the left and smileys on the right, for example).
 But is the mental number line just about number or is it part of a more general system that extends to any judgment of magnitude?
 
 Researchers sought to test this using a standard experiment with the addition of an irrelevant magnitude, a weight worn on the wrist.
 Twenty-four participants had to quickly and accurately judge whether a number (0-9) on a screen is odd or even.
-They gave their responses using a keyboard, and the experiment was balanced so that the 'odd' and 'even' responses were not always given with keys on the left ('Q') or right ('P') side.
+They gave their responses using a keyboard, and the experiment was balanced so that the 'odd' and 'even' responses were assigned to keys on the left ('Q') or right ('P') side of the keyboard in half the trials, and reversed in the other half.
 There were three conditions: participants wore a five-pound weight on the left wrist, the right wrist, or no weight (the baseline condition).
 
 ![Young chicks use a mental number line that reads left to right, just like humans]({{ site.url }}/images/2015-06-20-rugani-chick.jpg)
@@ -28,7 +28,7 @@ If the mental number line is specific to number, however, an external factor lik
 
 First, the researchers removed any data with wrong answers or very slow responses.
 On average, people responded equally fast in all three conditions.
-In comparing the left and right responses, the authors found similar results for the baseline and right conditions: the number line effect was present, with left and right side responses faster for smaller and larger numbers, respectively.
+In comparing the left and right responses, the authors found similar results for the baseline and right conditions: the number line effect was present, with left side responses faster for smaller numbers and right side responses faster for larger numbers.
 The left condition, however, did not show this effect.
 With left-weighted wrists, participants did not show any responses time differences in a left-right direction.
 There are weren't any differences across conditions depending on which hand participants had used in their responses and, although most of the participants were right-handed, handedness also did not affect the results.
