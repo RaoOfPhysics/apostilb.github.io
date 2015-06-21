@@ -35,8 +35,6 @@ During this period, they didn’t observe a single candidate for neutrino-induce
 In the absence of an observation, the null result has helped the Auger scientists establish their most stringent limit on the flux of ultrahigh-energy neutrinos in the energy range of [1e17 eV](http://www.wolframalpha.com/input/?i=1e17+eV) to [2.5e19 eV](http://www.wolframalpha.com/input/?i=2.5e19+eV).
 The limits thus set will allow theorists to further fine-tune their models and predictions on the nature and behaviour of ultrahigh-energy cosmic rays.
 
-[^1]: An explanation of these particles can be found at [auger.org/index.php/cosmic-rays/cosmic-ray-mystery](https://www.auger.org/index.php/cosmic-rays/cosmic-ray-mystery).
-
 ---
 Citation:
 
@@ -45,3 +43,6 @@ Improved limit to the diffuse flux of ultrahigh energy neutrinos from the Pierre
 _Physical Review D_,
 91(9).
 DOI: [10.1103/PhysRevD.91.092008](http://dx.doi.org/10.1103/PhysRevD.91.092008)
+
+
+[^1]: An explanation of these particles can be found at [auger.org/index.php/cosmic-rays/cosmic-ray-mystery](https://www.auger.org/index.php/cosmic-rays/cosmic-ray-mystery).
