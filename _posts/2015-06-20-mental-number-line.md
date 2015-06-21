@@ -31,13 +31,13 @@ On average, people responded equally fast in all three conditions.
 In comparing the left and right responses, the authors found similar results for the baseline and right conditions: the number line effect was present, with left side responses faster for smaller numbers and right side responses faster for larger numbers.
 The left condition, however, did not show this effect.
 With left-weighted wrists, participants did not show any responses time differences in a left-right direction.
-There are weren't any differences across conditions depending on which hand participants had used in their responses and, although most of the participants were right-handed, handedness also did not affect the results.
+There weren't any differences across conditions depending on which hand participants had used in their responses and, although most of the participants were right-handed, handedness also did not affect the results.
 
 The conclusion is that the mental number line is about more than just number, it also organizes other magnitudes in the same spatial fashion.
 The wrist weight was irrelevant to judging the parity of the on-screen number, yet it completely changed the response in the left-weighted condition, removing any trace of the mental number line effect.
 The weight could have affected the perceived effort in the task, or its physical size could have influenced the participants.
 The point is that the brain integrated asymmetries in space (the weight) with visual judgments of "size" (number).
-Number, it seems, it not differentiated from other mental judgments of size.
+Number, it seems, is not differentiated from other mental judgments of size.
 Small and large numbers that are presented incongruously, as physically large and small, can also evoke slow responses.
 This points to a dynamic organization of magnitudes across space, as well as a integration across the senses (in the case of this study, visual and haptic).
 
