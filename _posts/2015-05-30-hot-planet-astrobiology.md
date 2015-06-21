@@ -50,4 +50,4 @@ Finally, the authors suggest, we can learn something important about the surviva
 ---
 Citation:
 
-> Kuhn, J. R., & Berdyugina, S. V. (2015).  Global Warming as a Detectable Thermodynamic Marker of Earth-like Extrasolar Civilizations: The Case for a Telescope like Colossus. _International Journal of Astrobiology_, 14(3):401-410. DOI: [10.1017/S1473550414000585](http://dx.doi.org/10.1017/S1473550414000585)
+> Kuhn, J. R., & Berdyugina, S. V. (2015).  Global warming as a detectable thermodynamic marker of Earth-like extrasolar civilizations: the case for a telescope like Colossus. _International Journal of Astrobiology_, 14(3), 401-410. DOI:  [10.1017/S1473550414000585](http://dx.doi.org/10.1017/S1473550414000585)

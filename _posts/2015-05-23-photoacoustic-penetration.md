@@ -23,6 +23,6 @@ Despite the successes of the laboratory studies and the fact that the size of th
 ---
 Citation:
 
->Mitcham, T., Dextraze, K., Taghavi, H. Melancon, M., & Bouchard, R. (2015). Photoacoustic imaging driven by an interstitial irradiation source. _Photoacoustics_, 3(2): 45-54. DOI: [10.1016/j.pacs.2015.02.002](http://dx.doi.org/10.1016/j.pacs.2015.02.002)
+>Mitcham, T., Dextraze, K., Taghavi, H. Melancon, M., & Bouchard, R. (2015). Photoacoustic imaging driven by an interstitial irradiation source. _Photoacoustics_, 3(2), 45-54. DOI: [10.1016/j.pacs.2015.02.002](http://dx.doi.org/10.1016/j.pacs.2015.02.002)
 
 [^1]: An overview of the phenomenon can be found at [spectroscopyonline.com/photoacoustic-spectroscopy](http://www.spectroscopyonline.com/photoacoustic-spectroscopy).

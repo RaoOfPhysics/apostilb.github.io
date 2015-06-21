@@ -27,6 +27,6 @@ Playing off sensitivity in one domain (color) against another (focal length) is 
 ---
 Citation:
 
-> Stubbs, A. L., & Stubbs, C. W. (2015). A Novel Mechanism for Color Vision: Pupil Shape and Chromatic Aberration Can Provide Spectral Discrimination for “Color Blind” Organisms. _bioRxiv_, 017756. doi: [10.1101/017756](http://dx.doi.org/10.1101/017756)
+> Stubbs, A. L., & Stubbs, C. W. (2015). A Novel Mechanism for Color Vision: Pupil Shape and Chromatic Aberration Can Provide Spectral Discrimination for “Color Blind” Organisms. _bioRxiv_, 017756. DOI: [10.1101/017756](http://dx.doi.org/10.1101/017756)
 
 [^1]: Light isn't colored but we colloquially refer to long wavelengths of the visible spectrum as red and short wavelengths as blue.
