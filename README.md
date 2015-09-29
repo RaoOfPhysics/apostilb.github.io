@@ -2,9 +2,9 @@
 ## marginal illuminations on science
 
 [Apostilb](http://apostilb.github.io) is a place for communicating science.
-We ([@neuroamanda](https://twitter.com/neuroamanda) and [@RaoOfPhysics](https://twitter.com/RaoOfPhysics)) are two communicators who work for big science projects, which sometimes constrains the range of things we can write about.
+We ([@neuroamanda](https://twitter.com/neuroamanda) and [@RaoOfPhysics](https://twitter.com/RaoOfPhysics)) are two communicators who work for big science organisations, which sometimes constrains the range of things we can write about.
 This is an exercise for us to extend those bounds and summarize interesting science we come across.
-Once a week, we will post a new piece about recent research (less than five years old) that hasn't been covered widely in other outlets.
+Periodically, we will post a new piece about recent research (less than five years old) that hasn't been covered widely in other outlets.
 Sometimes we might also write about popular science topics.
 
 Read more on the [about page](http://apostilb.github.io/about/).
