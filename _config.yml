@@ -1,7 +1,7 @@
 # Dependencies
 markdown:               redcarpet
 redcarpet:
-  extensions: [footnotes]
+  extensions: ["footnotes", "tables"]
 highlighter:            pygments
 
 # Permalinks
