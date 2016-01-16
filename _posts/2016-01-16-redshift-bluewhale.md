@@ -13,8 +13,8 @@ Several hypotheses have been proposed to explain both patterns.
 Marine biologists recently [took to the oceans to test explanations for the intra-annual variation](http://dx.doi.org/10.1371/journal.pone.0107740), including the idea that the changes could be caused by Doppler shifts.
 
 The words "[Doppler shift](https://en.wikipedia.org/wiki/Doppler_effect)" bring to mind the siren of an ambulance, seemingly getting higher in pitch as it approaches you and then lower as it rushes past.
-This perceived change in sound is caused by the relative motion between the source of the sound and the listener: as the source and listener move closer to one another, the sound waves emitted get compressed, causing a rise in pitch, while relative motion away from one another results in the emitted waves expanding and lowering the pitch.
-The phenomenon can also be observed in electromagnetic waves: stars that move towards us have their light shifted towards the blue end of the spectrum (blue shift) and light from those stars that move away from us is shifted towards the red end of the spectrum (red shift).
+This perceived change in sound is caused by the relative motion between the source of the sound and the listener: as the source and listener move closer to one another, the sound waves emitted get compressed, causing a rise in pitch, while relative motion away results in the emitted waves expanding and lowering the pitch.
+The phenomenon can also be observed in electromagnetic waves: stars that move towards us have their light shifted to the blue end of the spectrum (blue shift) and light from those stars that move away from us is shifted to the red end of the spectrum (red shift).
 
 Antarctic blue whales are believed to migrate northwards to warmer waters during southern-hemisphere winters.
 Scientists have hypothesised that differences in whale-song pitch during a given year are caused by this movement of the mighty creatures.
@@ -28,12 +28,12 @@ To test this hypothesis, members of the 2013 Antarctic Blue Whale Voyage of the 
 By carefully measuring (or accurately estimating, when measurements were unavailable) the relative motion of the recording buoys and the whales, the scientists were able to determine how well the intra-annual whale-song-pitch variations could be attributed to the Doppler shift.
 However, although the variations followed the pattern predicted by the Doppler shift, they were also much greater than expected.
 
-Other explanations for the intra-annual variation, environmental and biological, were also considered.
+Environmental and biological explanations for the intra-annual variation were also considered.
 Measurements of the whale-song pitch from dispersed, static recording stations ruled out environmental factors (such as temperature and salinity of water), since varied locations provided similar data.
 Yet another possibility is that the changes in song pitch correspond to feeding patterns of the whales.
-The minimum and maximum pitches seem to align with the arrival and departure of the whales to their feeding grounds.
+The minimum and maximum pitches seem to coincide with the arrival and departure of the whales to their feeding grounds.
 Feeding habits would correspond to blubber thickness, and monthly measurements of this thickness correlated with the monthly change in pitch for whales less than 19 metres long but not for those more than 23 metres long.
-Therefore, while intra-annual changes in blubber mass too don't provide the complete picture, it certainly seems to the scientists to be an important part of the explanation for the corresponding changes in whale-song pitch.
+Combined with these data on blubber thickness, the Doppler-shift explanation for changes in whale-song pitch is certainly promising, though it doesn't it tell the whole story.
 
 Null results, or in this case inconclusive ones, are crucial to science.
 They help scientists refine their theories and discard unsatisfactory assumptions.
