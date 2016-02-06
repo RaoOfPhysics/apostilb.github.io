@@ -6,15 +6,15 @@ author: neuroamanda
 
 _Office devices vent some unwelcome chemicals_
 
-Office air can contain many chemical compounds that come from sources like carpet cleaning, furniture, dry cleaned clothes, and office devices.
+Office air can contain many chemical compounds that come from sources like carpet cleaning, furniture, dry cleaned clothes, and computer peripherals.
 These can cause allergic reactions, respiratory illness, headaches, and other symptoms collectively called [sick building syndrome](https://en.wikipedia.org/wiki/Sick_building_syndrome).
 [A recent study](http://dx.doi.org/10.1007/s11356-014-3672-3) specifically looked at the amounts and types of chemicals released by printers and copiers.
 
-When ink and toner are heated during the printing process, trace amounts of their constituent chemicals are released into the surrounding air.
-The amounts depend on the temperature and the frequency of use and operation of the devices.
+When ink and toner are heated during the printing process, tiny amounts of their constituent chemicals are released into the surrounding air.
+The amounts depend on the temperature and the frequency of use as well as the operation of the devices.
 In addition, the circuit boards and plastic parts of devices can give off their own emissions.
-Fine aerosol paper particles can also contribute to the office air cocktail of volatile organic compounds (VOCs).
-Volatile refers to the fact that a large number of molecules are released, not that these compounds are inherently dangerous or artificial, though one man-made VOC is probably very familiar: [new car smell](https://en.wikipedia.org/wiki/New_car_smell).
+Fine aerosol particles of paper can also contribute to the office air cocktail of volatile organic compounds (VOCs).
+Volatile refers to the fact that a large number of molecules are released, not that these compounds are inherently dangerous or artificial, though one manufactured VOC is probably very familiar: [new car smell](https://en.wikipedia.org/wiki/New_car_smell).
 
 ![Exploded toner cartridges]({{ site.url }}/images/2016-02-06-office-air-printer.jpg)
 
@@ -25,11 +25,11 @@ The devices were all manufactured during the 1990s and 2000s, but their manufact
 Air inside the chambers was sampled for five hours a day over four days, with printing taking place for 30 minutes at a time followed by a 30-minute break.
 To calculate how much each device was emitting, the researchers took into account the air flow inside the chamber, its volume, the sampling time and volumes they collected, the printing/copying time, and other factors.
 
-Over 60 compounds were identified in the air samples, including toluene, benzene, xylenes, ethylbenzene and styrene which, according to the authors "pose [a] hazard to human health when present in air."
+Over 60 compounds were identified in the air samples, including toluene, benzene, xylenes, ethylbenzene and styrene, which according to the authors "pose [a] hazard to human health when present in air".
 Some of these came out of all devices during printing, while some were only sporadically released by certain devices that were tested.
 Ethylbenzene had the highest emission level at 41 micrograms per cubic meter.
 One device was measured as emitting 8400 micrograms of particulates per hour, on average.
-The authors list two VOCs &mdash; trichloroethylene and tetrachloroethylene, otherwise known as "dry-cleaning fluid" &mdash; as carcinogenic or possibly carcinogenic to humans.
+The authors list two VOCs &mdash; tetrachloroethylene, otherwise known as "dry-cleaning fluid", and trichloroethylene &mdash; as carcinogenic or possibly carcinogenic to humans.
 An inkjet printer was the greatest source of VOCs; this was also the slowest-printing device.
 
 A person's exposure to any of these chemicals in an office environment will of course depend on proximity, office size, ventilation, the toner used, and how much printing and copying is done, but despite the low concentrations, long-term exposure may be a cause for concern.
