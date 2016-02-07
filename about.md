@@ -9,7 +9,7 @@ Lay science summaries have become topical in the scicomm community. Science enth
 
 Apostilb brings you:
 
-| <span class="fa-stack fa-lg"><i class="fa fa-flask fa-stack-2x"></i></i></span> | <span class="fa-stack fa-lg"><i class="fa fa-eye-slash fa-stack-2x"></i></span> | <span class="fa-stack fa-lg"><i class="fa fa-file-text fa-stack-2x"></i></span> |
+| <span class="fa-stack fa-lg"><i class="fa fa-flask fa-stack-2x"></i></span> | <span class="fa-stack fa-lg"><i class="fa fa-eye-slash fa-stack-2x"></i></span> | <span class="fa-stack fa-lg"><i class="fa fa-file-text fa-stack-2x"></i></span> |
 | :-----: | :-----: | :-----: |
 | freely available <br /> (open access) research | undiscovered science | lay summaries |
 
