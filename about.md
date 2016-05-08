@@ -13,7 +13,7 @@ Apostilb brings you:
 | :-----: | :-----: | :-----: |
 | freely available <br /> (open access) research | undiscovered science | lay summaries |
 
-**[Apostilb:reflections](http://apostilb.github.io/reflections/)** is our meta-blog about science communication, journalism, research and everything in between.
+**[Apostilb: reflections](http://apostilb.github.io/reflections/)** is our meta-blog about science communication, journalism, research and everything in between.
 
 
 ### About the name
