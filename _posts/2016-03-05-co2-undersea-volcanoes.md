@@ -2,6 +2,10 @@
 layout: post
 title: Undersea volcano type could contribute to carbon-dioxide emissions
 author: RaoOfPhysics
+image:
+  feature: 2016-03-05-co2-undersea-volcanoes.jpg
+  credit: Steven W. Dengler
+  caption: The Stromboli stratovolcano off the coast of Sicily
 ---
 
 _Previous estimates for volcanic CO<sub>2</sub> emissions had not accounted for "petit spot" volcanoes_
@@ -11,6 +15,8 @@ They also pump carbon dioxide (CO<sub>2</sub>) from within the Earth's surface i
 Although [CO<sub>2</sub> emissions from volcanoes are less than one percent of the amount given out by human activity](http://volcanoes.usgs.gov/vhp/gas_climate.html), determining this natural phenomenon's contribution to the planet's carbon cycle is valuable for understanding the evolution of the Earth's climate over geological time scales.
 Previously, geologists accounted for the CO<sub>2</sub> output of three types of volcanic activity: [arc](https://en.wikipedia.org/wiki/Volcanic_arc), [mid-ocean ridge](https://en.wikipedia.org/wiki/Mid-ocean_ridge) and [hotspot](https://en.wikipedia.org/wiki/Hotspot_%28geology%29).
 In [a 2013 paper](http://dx.doi.org/10.1130/G34620.1), however, researchers began to wonder whether a new type of volcano discovered in 2006 &mdash; the [petit spot](http://news.nationalgeographic.com/news/2006/07/060727-new-volcano.html) &mdash; might also contribute gases into the atmosphere.
+
+<!--break-->
 
 Petit-spot volcanism manifests deep in the ocean floor, in the cracks of tectonic plates.
 Since petit-spot volcanoes were only identified a few years ago, they had not been part of the existing models of carbon-dioxide emissions from volcanoes.

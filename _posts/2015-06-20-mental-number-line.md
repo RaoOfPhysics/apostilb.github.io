@@ -2,6 +2,10 @@
 layout: post
 title: Mass muddles mental number line
 author: neuroamanda
+image:
+  feature: 2015-06-20-rugani-chick.jpg
+  credit: Rosa Rugani, University of Padova
+  caption: Young chicks use a mental number line that reads left to right, just like humans
 ---
 
 _Judgment of number influenced by other magnitudes and senses_
@@ -10,6 +14,8 @@ People appear to have an inherent bias when it comes to number.
 They tend to count from left to right and are quicker to react in psychological tests when smaller numbers are on the left and larger numbers are on the right; [chicks also display this same behavior](http://www.aaas.org/news/humans-chicks-count-left-right).
 Studies have found this mental number line to be pervasive across tasks where people judge size, duration or emotional expression (preferring frownies on the left and smileys on the right, for example).
 But is the mental number line just about number or is it part of a more general system that extends to any judgment of magnitude?
+
+<!--break-->
 
 Researchers sought to test this using a standard experiment with the addition of an irrelevant magnitude, a weight worn on the wrist.
 Twenty-four participants had to quickly and accurately judge whether a number (0-9) on a screen is odd or even.

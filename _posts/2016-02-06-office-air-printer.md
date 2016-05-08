@@ -2,6 +2,10 @@
 layout: post
 title: Copiers and printers puff out particulates
 author: neuroamanda
+image:
+  feature: 2016-02-06-office-air-printer.jpg
+  credit: Max Wheeler
+  caption: Exploded toner cartridges
 ---
 
 _Office devices vent some unwelcome chemicals_
@@ -9,6 +13,8 @@ _Office devices vent some unwelcome chemicals_
 Office air can contain many chemical compounds that come from sources like carpet cleaning, furniture, dry cleaned clothes, and computer peripherals.
 These can cause allergic reactions, respiratory illness, headaches, and other symptoms collectively called [sick building syndrome](https://en.wikipedia.org/wiki/Sick_building_syndrome).
 [A recent study](http://dx.doi.org/10.1007/s11356-014-3672-3) specifically looked at the amounts and types of chemicals released by printers and copiers.
+
+<!--break-->
 
 When ink and toner are heated during the printing process, tiny amounts of their constituent chemicals are released into the surrounding air.
 The amounts depend on the temperature and the frequency of use as well as the operation of the devices.

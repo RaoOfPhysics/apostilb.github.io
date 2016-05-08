@@ -2,6 +2,10 @@
 layout: post
 title: Global warming may be key to finding E.T.
 author: neuroamanda
+image:
+  feature: 2015-05-30-Kepler_16b.jpg
+  credit: NASA/JPL-Caltech
+  caption: Kepler-16b, an exoplanet orbiting a pair of stars
 ---
 
 _Exoplanets that are too hot may be a sign of alien life_
@@ -9,6 +13,8 @@ _Exoplanets that are too hot may be a sign of alien life_
 A new research paper suggests that scanning for waste heat radiating off of Earth-like planets may be important in the search for extraterrestrial intelligence.
 Like the radio signals emitted by Earth, heat may serve as an interstellar smoke signal indicating energy production and consumption.
 While this is not a new idea, the study argues that heat is a viable marker of alien civilization that should be considered in plans for building future telescopes.
+
+<!--break-->
 
 With nearly 2000 exoplanets discovered [so far](http://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=planets), detailed study of them may yet reveal signs of alien civilization.
 One signal that we have been listening for in the search for extraterrestrial intelligence is radio waves, which our rapidly industrialized Earth civilization has also been beaming into outer space for the past 100 years or so.

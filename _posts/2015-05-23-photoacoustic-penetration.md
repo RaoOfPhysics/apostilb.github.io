@@ -2,11 +2,17 @@
 layout: post
 title: "Hearing with light, seeing with sound"
 author: RaoOfPhysics
+image:
+  feature: 2015-05-23-photoacoustic-penetration.png
+  credit: Bme591wikiproject
+  caption: Schematic illustration of photoacoustic imaging
 ---
 
 _Improvement to tissue-imaging technique based on photoacoustic spectroscopy shows promise for minimally invasive radiology_
 
 Photoacoustics (PA) involves shining light (*photo–*) on a material to produce sound (*acoustics*) and using the sound for spectroscopy[^1]. When energy from the incident light is absorbed by a material it expands slightly and when the light source is switched off the material contracts. Alternately shining and switching off the light source rapidly creates pressure differences that manifest as sound waves. Materials will vary in the sounds they produce depending on the wavelength of light shone on them. A light-vs-sound spectrum for a particular material can be prepared by “listening” to the pressure waves that various wavelengths of light make in it, allowing one to see with sound. The photoacoustic effect was discovered by Alexander Graham Bell in the late 19th century, but has found use in materials science and medicine relatively recently.
+
+<!--break-->
 
 ![Schematic illustration of photoacoustic imaging]({{ site.url }}/images/2015-05-23-photoacoustic-penetration.png)
 

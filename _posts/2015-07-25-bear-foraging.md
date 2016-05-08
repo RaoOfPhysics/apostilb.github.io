@@ -2,6 +2,10 @@
 layout: post
 title: It's hot out there for a bear
 author: neuroamanda
+image:
+  feature: 2015-07-25-bear-foraging.jpg
+  credit: Gregory "Slobirdr" Smith
+  caption: Grizzly bear in Denali, Alaska
 ---
 
 _Foraging for food takes precedence over staying cool_
@@ -11,6 +15,8 @@ They only have about seven months a year to eat 12 months' worth of food, since 
 This imperative to eat is at odds with high temperatures during the best feeding months.
 Bears don't have sweat glands, yet they must develop thick under-fur and a layer of fat for the winter.
 Do the bears reduce their activity to beat the heat, or do they stick to their eating mission?
+
+<!--break-->
 
 Wildlife researchers followed small groups of grizzlies in British Columbia and recorded their activities.
 Previous research found that other types of bears reduce their activity levels when temperatures reached 20 &deg;C.

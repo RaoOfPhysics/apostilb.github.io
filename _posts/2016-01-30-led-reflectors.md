@@ -2,6 +2,10 @@
 layout: post
 title: LEDs could be cheaper and just as bright without a common component
 author: RaoOfPhysics
+image:
+  feature: 2016-01-30-led-reflectors.jpg
+  credit: Windell Oskay
+  caption: White LEDs
 ---
 
 _Simulations show reflectors used in LEDs may be unnecessary_
@@ -10,6 +14,8 @@ Low-cost and low-power light-emitting diodes (LEDs), especially white LEDs, have
 In fact, the inventors of blue LEDs &mdash; a crucial element for producing white light &mdash; [won the 2014 Nobel Prize in Physics](http://www.nature.com/news/nobel-for-blue-led-that-revolutionized-lighting-1.16092).
 Now, [researchers have demonstrated](http://dx.doi.org/10.1186/s40539-015-0031-z) that there may be even better ways to optimise how white LEDs are made, by eliminating one commonly used component.
 Changing the manufacturing process based on this work can further reduce the costs of white LEDs by 5–10%.
+
+<!--break-->
 
 Unlike filament-based bulbs or fluorescent tubes, LEDs rely on [semiconductors](https://en.wikipedia.org/wiki/Semiconductor).
 Layers of semiconducting materials are combined together, emitting photons when electricity is passed through them.

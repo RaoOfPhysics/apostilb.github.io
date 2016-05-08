@@ -5,8 +5,13 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
+  <div class="post home">
+      {% if post.image.feature %}
+      <div class="featured-image">
+          <img src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.image.caption }}. Image credit: {{ post.image.credit }}" title="{{ post.image.caption }}. Image credit: {{ post.image.credit }}">
+      </div>
+      {% endif %}
+    <h1 class="post-title home">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
@@ -14,7 +19,12 @@ title: Home
 
     <span class="post-date"><span class="post-author">by <a href="{{ site.twitter }}/{{ post.author }}"> {{ post.author }}</a></span>&nbsp;|&nbsp;{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    {{ post.content | split:'<!--break-->' | first }}
+    {% if post.content contains '<!--break-->' %}
+       <a href="{{ post.url }}"><em>read more…</em></a>
+    {% endif %}
+    <br />
+    <hr />
   </div>
   {% endfor %}
 </div>
