@@ -2,6 +2,10 @@
 layout: post
 title: Undersea volcano type could contribute to carbon-dioxide emissions
 author: RaoOfPhysics
+image:
+  feature: 2016-03-05-co2-undersea-volcanoes.jpg
+  credit: Steven W. Dengler
+  caption: The Stromboli stratovolcano off the coast of Sicily
 ---
 
 _Previous estimates for volcanic CO<sub>2</sub> emissions had not accounted for "petit spot" volcanoes_

@@ -5,8 +5,13 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <div class="post-preview">
-    <h1 class="post-title">
+  <div class="post home">
+      {% if post.image.feature %}
+      <div class="featured-image">
+          <img src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.image.caption }}. Image credit: {{ post.image.credit }}" title="{{ post.image.caption }}. Image credit: {{ post.image.credit }}">
+      </div>
+      {% endif %}
+    <h1 class="post-title home">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>

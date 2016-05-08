@@ -2,6 +2,10 @@
 layout: post
 title: Prism break, cuttlefish style
 author: neuroamanda
+image:
+  feature: 2015-05-16-prism-break.jpg
+  credit: Eye of Australian giant cuttlefish (Sepia apama)
+  caption: A blue whale
 ---
 
 _A suggested biological color vision mechanism exploits optics_

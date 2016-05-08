@@ -2,6 +2,10 @@
 layout: post
 title: Ultrahigh-energy cosmic neutrinos remain elusive
 author: RaoOfPhysics
+image:
+  feature: 2015-06-07-cosmic-neutrinos.jpg
+  credit: Lorenzo Caccianiga
+  caption: Three of the stations of the Surface Detectors in the Pierre Auger Observatory in a row towards the Andes, at sunrise
 ---
 
 _No signs of tell-tale particles despite years of data collection_

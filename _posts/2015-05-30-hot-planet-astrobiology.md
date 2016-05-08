@@ -2,6 +2,10 @@
 layout: post
 title: Global warming may be key to finding E.T.
 author: neuroamanda
+image:
+  feature: 2015-05-30-Kepler_16b.jpg
+  credit: NASA/JPL-Caltech
+  caption: Kepler-16b, an exoplanet orbiting a pair of stars
 ---
 
 _Exoplanets that are too hot may be a sign of alien life_

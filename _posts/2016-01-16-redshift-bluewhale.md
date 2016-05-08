@@ -2,6 +2,10 @@
 layout: post
 title: Red shift, blue whale
 author: RaoOfPhysics
+image:
+  feature: 2016-01-16-redshift-bluewhale.jpg
+  credit: NOAA Photo Library
+  caption: A blue whale
 ---
 
 _Variation of whale-song pitch not fully explained by Doppler shift_

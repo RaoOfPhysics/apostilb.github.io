@@ -2,6 +2,10 @@
 layout: post
 title: Why does scratching an itch feel so good?
 author: neuroamanda
+image:
+  feature: 2015-09-26-bear-scratching.jpg
+  credit: Tambako The Jaguar
+  caption: A bear scratching its forehead
 ---
 
 _Broad network of brain areas mediates the satisfaction of scratching_

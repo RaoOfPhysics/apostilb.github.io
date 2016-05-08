@@ -2,6 +2,10 @@
 layout: post
 title: Copiers and printers puff out particulates
 author: neuroamanda
+image:
+  feature: 2016-02-06-office-air-printer.jpg
+  credit: Max Wheeler
+  caption: Exploded toner cartridges
 ---
 
 _Office devices vent some unwelcome chemicals_

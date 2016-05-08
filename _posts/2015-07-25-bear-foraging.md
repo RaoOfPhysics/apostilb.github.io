@@ -2,6 +2,10 @@
 layout: post
 title: It's hot out there for a bear
 author: neuroamanda
+image:
+  feature: 2015-07-25-bear-foraging.jpg
+  credit: Gregory "Slobirdr" Smith
+  caption: Grizzly bear in Denali, Alaska
 ---
 
 _Foraging for food takes precedence over staying cool_

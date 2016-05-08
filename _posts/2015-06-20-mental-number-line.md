@@ -2,6 +2,10 @@
 layout: post
 title: Mass muddles mental number line
 author: neuroamanda
+image:
+  feature: 2015-06-20-rugani-chick.jpg
+  credit: Rosa Rugani, University of Padova
+  caption: Young chicks use a mental number line that reads left to right, just like humans
 ---
 
 _Judgment of number influenced by other magnitudes and senses_

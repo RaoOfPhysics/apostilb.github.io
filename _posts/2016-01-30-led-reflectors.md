@@ -2,6 +2,10 @@
 layout: post
 title: LEDs could be cheaper and just as bright without a common component
 author: RaoOfPhysics
+image:
+  feature: 2016-01-30-led-reflectors.jpg
+  credit: Windell Oskay
+  caption: White LEDs
 ---
 
 _Simulations show reflectors used in LEDs may be unnecessary_

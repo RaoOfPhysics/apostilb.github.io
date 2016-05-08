@@ -2,6 +2,10 @@
 layout: post
 title: "Hearing with light, seeing with sound"
 author: RaoOfPhysics
+image:
+  feature: 2015-05-23-photoacoustic-penetration.png
+  credit: Bme591wikiproject
+  caption: Schematic illustration of photoacoustic imaging
 ---
 
 _Improvement to tissue-imaging technique based on photoacoustic spectroscopy shows promise for minimally invasive radiology_
