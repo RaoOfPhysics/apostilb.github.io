@@ -10,6 +10,8 @@ Office air can contain many chemical compounds that come from sources like carpe
 These can cause allergic reactions, respiratory illness, headaches, and other symptoms collectively called [sick building syndrome](https://en.wikipedia.org/wiki/Sick_building_syndrome).
 [A recent study](http://dx.doi.org/10.1007/s11356-014-3672-3) specifically looked at the amounts and types of chemicals released by printers and copiers.
 
+<!--break-->
+
 When ink and toner are heated during the printing process, tiny amounts of their constituent chemicals are released into the surrounding air.
 The amounts depend on the temperature and the frequency of use as well as the operation of the devices.
 In addition, the circuit boards and plastic parts of devices can give off their own emissions.

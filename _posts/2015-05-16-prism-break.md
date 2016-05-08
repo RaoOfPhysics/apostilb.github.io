@@ -8,6 +8,8 @@ _A suggested biological color vision mechanism exploits optics_
 
 From humans to mantis shrimp, the key to seeing in color is to compare. With at least two different types of wavelength-sensitive cells in the eye, you can start to distinguish different parts of the spectrum, and thus different-colored objects in the environment. The more photoreceptor types you have, the more precisely you can interpret the incoming light, depending on how finely or evenly the [photoreceptor sensitivities are spaced on the spectrum](https://arthropoda.files.wordpress.com/2010/03/human-vs-mantis.jpg). Humans are trichromatic, with three kinds of cone cells well-tuned to the short, medium, and long wavelengths of our diurnal environment. The mantis shrimp has 16 photoreceptor types, suited to both its vibrant patchwork body coloring as well as its bright surroundings. The question then is, how many photoreceptors does the cuttlefish, [a squid-like underwater chameleon](https://www.youtube.com/watch?v=SfkhEm3LfvE), have?
 
+<!--break-->
+
 Alas, the cuttlefish has but one type of photoreceptor. The instantaneous color and texture changes exhibited by this mollusk allow it to blend in seamlessly with any background it encounters, but it is effectively color blind, at least if color vision depends on comparison between cell types. [Some new research](http://dx.doi.org/10.1101/017756), however, suggests that "color blind" cephalopods like the cuttlefish _can_ sense chromatic information using an optical trick.
 
 ![Eye of Australian giant cuttlefish (Sepia apama)]({{ site.url }}/images/2015-05-16-prism-break.jpg)

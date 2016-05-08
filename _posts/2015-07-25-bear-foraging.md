@@ -12,6 +12,8 @@ This imperative to eat is at odds with high temperatures during the best feeding
 Bears don't have sweat glands, yet they must develop thick under-fur and a layer of fat for the winter.
 Do the bears reduce their activity to beat the heat, or do they stick to their eating mission?
 
+<!--break-->
+
 Wildlife researchers followed small groups of grizzlies in British Columbia and recorded their activities.
 Previous research found that other types of bears reduce their activity levels when temperatures reached 20 &deg;C.
 The researchers anticipated that grizzly bears would either be more active for longer periods during the summer while foraging for berries (the major high-energy food in the ecosystem they studied), or they would become more nocturnal and less active when it's hot (since it is challenging for bears to dissipate their body heat).

@@ -10,6 +10,8 @@ The act of scratching not only relieves an itch but also evokes pleasant feeling
 These feelings of enjoyment can be traced to activation in regions of the brain involved in reward, or positive stimulation that reinforces certain behaviors.
 While the pleasantness of scratching an itch has been documented before, [a 2014 study](http://dx.doi.org/10.1152/jn.00374.2013) claims to be the first to identify the specific brain regions involved in this sensation.
 
+<!--break-->
+
 Researchers used functional magnetic resonance imaging (fMRI), which measures changes in blood flow in the brain, to see which areas "light up" in response to scratching.
 The 16 participants in the study didn't scratch themselves, though.
 The researchers carefully controlled the duration (five seconds) and location of scratching, which was done with a tool consisting of two copper plates that apparently delivered the same sensation as using fingernails.

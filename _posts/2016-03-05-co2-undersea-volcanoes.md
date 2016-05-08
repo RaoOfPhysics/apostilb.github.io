@@ -12,6 +12,8 @@ Although [CO<sub>2</sub> emissions from volcanoes are less than one percent of t
 Previously, geologists accounted for the CO<sub>2</sub> output of three types of volcanic activity: [arc](https://en.wikipedia.org/wiki/Volcanic_arc), [mid-ocean ridge](https://en.wikipedia.org/wiki/Mid-ocean_ridge) and [hotspot](https://en.wikipedia.org/wiki/Hotspot_%28geology%29).
 In [a 2013 paper](http://dx.doi.org/10.1130/G34620.1), however, researchers began to wonder whether a new type of volcano discovered in 2006 &mdash; the [petit spot](http://news.nationalgeographic.com/news/2006/07/060727-new-volcano.html) &mdash; might also contribute gases into the atmosphere.
 
+<!--break-->
+
 Petit-spot volcanism manifests deep in the ocean floor, in the cracks of tectonic plates.
 Since petit-spot volcanoes were only identified a few years ago, they had not been part of the existing models of carbon-dioxide emissions from volcanoes.
 To determine their CO<sub>2</sub> flux, the researchers examined [volcanic glass](https://en.wikipedia.org/wiki/Volcanic_glass) formed around petit-spot volcanoes some six kilometres below sea level.

@@ -12,6 +12,8 @@ In addition to this *intra-annual* variation, the recordings also show an overal
 Several hypotheses have been proposed to explain both patterns.
 Marine biologists recently [took to the oceans to test explanations for the intra-annual variation](http://dx.doi.org/10.1371/journal.pone.0107740), including the idea that the changes could be caused by Doppler shifts.
 
+<!--break-->
+
 The words "[Doppler shift](https://en.wikipedia.org/wiki/Doppler_effect)" bring to mind the siren of an ambulance, seemingly getting higher in pitch as it approaches you and then lower as it rushes past.
 This perceived change in sound is caused by the relative motion between the source of the sound and the listener: as the source and listener move closer to one another, the sound waves emitted get compressed, causing a rise in pitch, while relative motion away results in the emitted waves expanding and lowering the pitch.
 The phenomenon can also be observed in electromagnetic waves: stars that move towards us have their light shifted to the blue end of the spectrum (blue shift) and light from those stars that move away from us is shifted to the red end of the spectrum (red shift).

@@ -10,6 +10,8 @@ We are all bathed in a constant stream of particles knows as cosmic rays[^1], wh
 These high-energy particles were initially suspected to have Earthly origins, but [Victor Hess demonstrated in 1912](http://timeline.web.cern.ch/events/victor-hess-discovers-cosmic-rays) that they arrive on our planet from non-terrestrial sources.
 For decades, the enigmatic nature of cosmic rays has captivated scientists, who have sought explanations for their origins and the energies they possess.
 
+<!--break-->
+
 In 1966, Kenneth Greisen as well as Georgiy Zatsepin and Vadim Kuzmin proposed that the energy of cosmic rays originating from very distant sources wouldn’t exceed a certain value.
 The [Greisen–Zatsepin–Kuzmin (GZK) limit](https://en.wikipedia.org/wiki/Greisen%E2%80%93Zatsepin%E2%80%93Kuzmin_limit) comes from energy losses that ultrahigh-energy cosmic rays (UHECRs) experience when they interact with the photons from the cosmic microwave background radiation.
 Indeed the flux of UHECRs tails off at energies above the GZK limit, as predicted.

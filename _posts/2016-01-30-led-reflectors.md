@@ -11,6 +11,8 @@ In fact, the inventors of blue LEDs &mdash; a crucial element for producing whit
 Now, [researchers have demonstrated](http://dx.doi.org/10.1186/s40539-015-0031-z) that there may be even better ways to optimise how white LEDs are made, by eliminating one commonly used component.
 Changing the manufacturing process based on this work can further reduce the costs of white LEDs by 5–10%.
 
+<!--break-->
+
 Unlike filament-based bulbs or fluorescent tubes, LEDs rely on [semiconductors](https://en.wikipedia.org/wiki/Semiconductor).
 Layers of semiconducting materials are combined together, emitting photons when electricity is passed through them.
 These layers and other components of a single LED must be assembled very precisely.
