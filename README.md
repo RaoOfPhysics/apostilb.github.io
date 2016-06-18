@@ -15,4 +15,4 @@ Follow [@apostilb](https://twitter.com/apostilb) on Twitter.
 
 The website design ([Lanyon](http://lanyon.getpoole.com/)) is released under the MIT License.
 
-Content on apostilb is licensed under [CC BY-NC-ND-4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Content on apostilb is licensed under [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/).
