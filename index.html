@@ -17,7 +17,7 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date"><span class="post-author">by <a href="{{ site.twitter }}/{{ post.author }}"> {{ post.author }}</a></span>&nbsp;|&nbsp;{{ post.date | date_to_string }}</span>
+    <span class="post-date"><span class="post-author">by <a href="https://twitter.com/{{ post.author }}"> {{ post.author }}</a></span>&nbsp;|&nbsp;{{ post.date | date_to_string }}</span>
 
     {{ post.content | split:'<!--break-->' | first }}
     {% if post.content contains '<!--break-->' %}
