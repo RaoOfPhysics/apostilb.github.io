@@ -20,16 +20,16 @@ To test the effects of EM fields on biological cells in a controlled environment
 The EM fields in the experiment were generated at a frequency of 50&nbsp;Hz, which is the frequency in most countries of the transmission of electricity via power lines.
 The same researchers previously found that an eight-week exposure to a higher field of 1.5&nbsp;mT caused unrepaired DNA damage in mice.
 In both these studies, the scientists used breaks in the DNA strands in the cell nuclei as a measure of DNA damage.
-In the latest study, they also looked for signs that DNA inside mitochondria was being produced at lower rates than usual, which would affect the DNA-repair process inside cell nuclei.
+In the latest study, they also looked at whether DNA inside mitochondria was being produced regularly, a part of the normal DNA repair process in cells.
 
 <!--break-->
 
 Previous research has suggested that extended exposure to EM fields damages cells that are involved in the transport, reabsorption or storage of iron.
 The researchers therefore studied how cells involved in these activities in the brain, the kidney and the liver were affected by EM exposure.
 
-![An artistic representation of DNA strands]({{ site.url }}/images/2016-08-27-mouse-dna-magnetic-fields.jpg)
+![An artistic representation of DNA]({{ site.url }}/images/2016-08-27-mouse-dna-magnetic-fields.jpg)
 
-> _An artistic representation of DNA strands. [Image](https://commons.wikimedia.org/wiki/File:DNA_com_GGN.jpg) by Nogas1974 / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)_
+> _An artistic representation of DNA. [Image](https://commons.wikimedia.org/wiki/File:DNA_com_GGN.jpg) by Nogas1974 / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)_
 
 Three sets of mice were kept in otherwise identical conditions but were exposed to different EM fields: the first group to 0.1&nbsp;mT, the second to 1.0&nbsp;mT and the third group to no EM fields other than the Earth's natural magnetic field.
 After eight weeks, cells from mice randomly selected from each group were analysed for signs of DNA damage.
