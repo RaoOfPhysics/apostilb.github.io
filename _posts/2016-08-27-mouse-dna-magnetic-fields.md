@@ -16,13 +16,13 @@ However, it is thought that prolonged exposure to electromagnetic (EM) fields pr
 For this reason, several countries have adopted limits for EM exposure, with most European countries limiting ambient magnetic fields to 0.1&nbsp;mT ([milliteslas](https://en.wikipedia.org/wiki/Tesla_(unit))).
 It should be noted that medical devices such as [MRI](https://en.wikipedia.org/wiki/Magnetic_resonance_imaging) machines generate fields of up to 3 T, but patients typically are in the vicinity of such high fields for brief durations only.
 
+<!--break-->
+
 To test the effects of EM fields on biological cells in a controlled environment, researchers exposed two groups of mice to fields of 0.1&nbsp;mT and 1.0&nbsp;mT respectively over eight weeks, while a third group of mice living in similar conditions but without the EM exposure served as a control.
 The EM fields in the experiment were generated at a frequency of 50&nbsp;Hz, which is the frequency in most countries of the transmission of electricity via power lines.
 The same researchers previously found that an eight-week exposure to a higher field of 1.5&nbsp;mT caused unrepaired DNA damage in mice.
 In both these studies, the scientists used breaks in the DNA strands in the cell nuclei as a measure of DNA damage.
 In the latest study, they also looked at whether DNA inside mitochondria was being produced regularly, a part of the normal DNA repair process in cells.
-
-<!--break-->
 
 Previous research has suggested that extended exposure to EM fields damages cells that are involved in the transport, reabsorption or storage of iron.
 The researchers therefore studied how cells involved in these activities in the brain, the kidney and the liver were affected by EM exposure.
