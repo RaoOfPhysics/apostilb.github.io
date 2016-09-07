@@ -8,7 +8,7 @@ image:
   caption: “DNA com GGN”
 ---
 
-_Cells in brain, kidney and liver shown to withstand sustained exposure to magnetic fields._
+_Cells in brain, kidney and liver shown to withstand sustained exposure to magnetic fields_
 
 The 19th-century works of Hans Christian Ørsted, Michael Faraday, James Clerk Maxwell and others demonstrated that electricity and magnetism are in fact two sides of the same coin: a magnet moving near a coil of wires induces a current in the coil and circulating electric current generates magnetic fields.
 We have since harnessed this unified electromagnetism to provide for the energy needs of billions around the globe.
