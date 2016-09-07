@@ -21,7 +21,7 @@ A team of researchers from Japan tested whether the size of the body wearing str
 
 [In line with previous research](http://ipe.sagepub.com/content/2/1/69), they found that the common idea that horizontal stripes make one look fat is in fact wrong.
 In the experiment, a group of students rated computer-generated figures wearing either a horizontally or vertically striped shirt.
-The figures had different degrees of thin and fat body shapes to determine when the horizontal and vertical-striped figures looked ‘equally fat’ for each observer.
+The figures had different degrees of thin and fat body shapes to determine when the horizontal- and vertical-striped figures looked ‘equally fat’ for each observer.
 This measurement is a baseline for each person’s perception, and all participants perceived a person with horizontal stripes to be thinner than a person with vertical stripes.
 This agrees with the phenomenon of the Helmholtz illusion, that a horizontally striped square is perceived as ‘thinner’ than one with vertical stripes.
 
